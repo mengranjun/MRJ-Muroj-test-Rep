@@ -11,13 +11,13 @@ public class PeiXiuHelper {
             System.out.println("请输入第一个数字");
             int input1 = scanner.nextInt();
             if (input1 < 1 || input1 >13) {
-                System.out.println("不是哥们你玩的是数学家吗");
+                System.out.println("不是哥们三国杀有14点数吗");
                 continue;
             }
             System.out.println("请输入第二个数字:");
             int input2 = scanner.nextInt();
             if (input2 < 1 || input2 >13) {
-                System.out.println("不是哥们你玩的是数学家吗");
+                System.out.println("不是哥们三国杀有14点数吗");
                 continue;
             }
             int results = (input1 + input2) % 13;
