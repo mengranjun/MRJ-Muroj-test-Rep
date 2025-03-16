@@ -1,3 +1,7 @@
+/*你们好我是三国杀玩家，我要玩裴秀，但我是大学生怎么办？
+不必担心！这个傻逼东西可以可以让你知道爵制结果！再也不用两张换垃圾了！！！！!!!！！1111！！！
+*/
+//以下代码只是思路，打算开发成安卓应用,真要开发成应用应该不会这个用傻逼while重复执行↓
 import java.util.Scanner;
 public class PeiXiuHelper {
     public static void main(String[] args) {
